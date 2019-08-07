@@ -94,7 +94,6 @@ _ Jay Kim
 - [Mohit Kumar](https://github.com/ahirwar1997)
 - [Wei CUI](https://github.com/WeiCUI6)
 - [Gokyl and1](https://github.com/gokyl)
-- [blueblackberry](https://github.com/blueblackberry)
 - [Shankhadeep Dey](https://github.com/Iamshankhadeep)
 - [Alex Williams](https://github.com/williamsalex)
 - [Eufrasia](https://github.com/eufras1a)
